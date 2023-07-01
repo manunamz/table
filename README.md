@@ -99,7 +99,7 @@ Default: `honeywell` [template](#getbordercharacters)
 Custom borders. The keys are any of:
 - `topLeft`, `topRight`, `topBody`,`topJoin`
 - `bottomLeft`, `bottomRight`, `bottomBody`, `bottomJoin`
-- `joinLeft`, `joinRight`, `joinBody`, `joinJoin`
+- `joinLeft`, `joinRight`, `joinBody`, `joinJoin`, `joinMiddleUp`, `joinMiddleDown`, `joinMiddleLeft`, `joinMiddleRight`
 - `bodyLeft`, `bodyRight`, `bodyJoin`
 - `headerJoin`
 
